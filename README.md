@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # About
-
+This is a very basic app built in flutter to get a brief knowledge about the various functionalities about flutter and dart. This app features interacting with different widgets and handling the states of the application, performing button actions and updating the contents displayed on the screen dynamically.
 # Screenshots
-<img src="Screenshot_20200210-231322.PNG" width="250" height="300"> <img src="Screenshot_20200210-231328.PNG" width="250" height="300">
+<img src="screenshots/s1.png" width="250" height="400"> <img src="screenshots/s2.png" width="250" height="400"> <img src="screenshots/s3.png" width="250" height="400"> <img src="screenshots/s4.png" width="250" height="400">
